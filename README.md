@@ -3,6 +3,8 @@
 Projeto com intuito de copiar funciomaneto do sistema de agendamento das Academias SELFIT
 Projeto feito com intuito de aprendizado apenas.
 
+![](https://media.giphy.com/media/dRdfYmANn9jK21ljLY/giphy.gif)
+
 ## Installation
 
 Utilizando Yarn
